@@ -9,4 +9,6 @@ GojoSatrou0/GojoSatrou0 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 I'm interested in python
-kjh
+I'm learning python
+nothing
+you can't
